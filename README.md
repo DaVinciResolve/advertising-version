@@ -2,7 +2,7 @@
 *(Windows 7/10 only)*
 ## *This version includes all plugins and add-ons.*
 # **Learn, create, and get inspired.**
-![Image](https://github.com/PinnacleStudio24/advertising-version/blob/main/1.jpg)
+![alt text](pinnacle-studio.jpg)
   Editing across unlimited tracks
   Advanced Color Grading
   Multi-camera editing for 6 cameras
